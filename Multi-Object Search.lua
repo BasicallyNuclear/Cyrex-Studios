@@ -16,6 +16,6 @@ end
 	
 The point of this system is to be able to access multiple objects with the same name at once.
 Example: Every light in the workspace is named "Light", this allows you to turn them all off
-at the same time with ease.	
+at the same time with ease.
 	
 --]]
